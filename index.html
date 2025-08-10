@@ -2,7 +2,7 @@
 <html lang="zh-Hant">
 <head>
 <meta charset="UTF-8" />
-<title>單字卡 — 標記與洗牌功能修正版</title>
+<title>TOEFL Vocabulary Cards</title>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <style>
   :root{--bg:#071322;--card:#0b1220;--accent:#7dd3fc;--muted:#94a3b8}
@@ -13,8 +13,9 @@
   h1{font-size:18px;margin:0;font-weight:700}
   .controls{display:flex;gap:8px;align-items:center;flex-wrap:wrap}
   .btn{appearance:none;border:0;padding:8px 12px;border-radius:10px;background:rgba(255,255,255,0.03);color:inherit;cursor:pointer;font-weight:600;transition: background-color 0.3s ease;}
-  .btn.primary{background:linear-gradient(90deg, rgba(125,211,252,0.12), rgba(99,102,241,0.08));border:1px solid rgba(125,211,252,0.12)}
-  .btn:hover { background: rgba(125, 211, 252, 0.2); color: #072033;}
+  .btn.primary{appearance:none;border:0;padding:8px 12px;border-radius:10px;background:rgba(255,255,255,0.03);color:inherit;cursor:pointer;font-weight:600;transition: background-color 0.3s ease;}
+  /* .btn.primary{background:linear-gradient(90deg, rgba(125,211,252,0.12), rgba(99,102,241,0.08));border:1px solid rgba(125,211,252,0.12)} */
+  .btn:hover { background: rgba(125, 211, 252, 0.2); color: #ffffff;}
   .toggle{display:inline-flex;background:rgba(255,255,255,0.02);padding:6px;border-radius:999px}
   .toggle button{background:transparent;border:0;color:var(--muted);padding:6px 10px;border-radius:8px;cursor:pointer;transition: background-color 0.3s ease;}
   .toggle button.active{background:var(--accent);color:#072033}
@@ -34,7 +35,7 @@
   .word-large{font-size:44px;font-weight:800;letter-spacing:-0.02em;text-align:center;margin-top:10px}
   .ipa-pos{margin-top:12px;display:flex;gap:10px;align-items:center;color:var(--accent)}
   .ipa{font-size:15px;padding:6px 10px;border-radius:999px;background:rgba(125,211,252,0.06)}
-  .pos{font-size:13px;background:rgba(125,211,252,0.08);color:#062033;padding:6px 8px;border-radius:8px;font-weight:700}
+  .pos{font-size:13px;background:rgba(125,211,252,0.08);color:#7dd3fc;padding:6px 8px;border-radius:8px;font-weight:700}
   .example{margin-top:20px;font-size:16px;line-height:1.6;color:#eaf6ff;text-align:center;word-break:break-word}
 
   /* star button */
@@ -57,8 +58,8 @@
   <div class="wrap">
     <header>
       <div>
-        <h1>單字卡 — 點卡片翻面 / 標記星號</h1>
-        <div class="meta" style="font-size:13px;color:var(--muted)">按空白鍵翻頁、← → 切換單字</div>
+        <h1>TOEFL Vocabulary Cards</h1>
+        <!-- <div class="meta" style="font-size:13px;color:var(--muted)">按空白鍵翻頁、← → 切換單字</div> -->
       </div>
       <div class="controls">
         <label class="btn" for="fileInput" title="匯入 txt 檔案">📁 匯入 txt</label>
