@@ -14,10 +14,7 @@
   .controls{display:flex;gap:8px;align-items:center;flex-wrap:wrap}
   .btn{appearance:none;border:0;padding:8px 12px;border-radius:10px;background:rgba(255,255,255,0.03);color:inherit;cursor:pointer;font-weight:600;transition: background-color 0.3s ease;}
   .btn.primary{background:linear-gradient(90deg, rgba(125,211,252,0.12), rgba(99,102,241,0.08));border:1px solid rgba(125,211,252,0.12)}
-  .btn:hover {
-    background: rgba(125, 211, 252, 0.2);
-    color: #072033;
-  }
+  .btn:hover { background: rgba(125, 211, 252, 0.2); color: #072033;}
   .toggle{display:inline-flex;background:rgba(255,255,255,0.02);padding:6px;border-radius:999px}
   .toggle button{background:transparent;border:0;color:var(--muted);padding:6px 10px;border-radius:8px;cursor:pointer;transition: background-color 0.3s ease;}
   .toggle button.active{background:var(--accent);color:#072033}
@@ -48,6 +45,7 @@
   aside.side{width:220px;flex-shrink:0}
   .nav{display:flex;gap:8px;margin-bottom:12px;flex-wrap:wrap}
   .meta{color:var(--muted);font-size:13px;white-space:nowrap}
+  .source{color:var(--muted);font-size:13px;margin-left:8px}
 
   @media (max-width:740px){
     .stage{flex-direction:column;align-items:center}
@@ -64,6 +62,7 @@
       </div>
       <div class="controls">
         <label class="btn" for="fileInput" title="匯入 txt 檔案">📁 匯入 txt</label>
+        <button class="btn" id="fetchBtn" title="從 repo 抓取最新 vocab.txt">📤 更新</button>
         <button class="btn" id="shuffleBtn" title="洗牌打亂單字順序">🔀 洗牌</button>
         <div class="toggle" role="tablist" aria-label="篩選卡片">
           <button id="showAll" class="active" aria-selected="true" role="tab">全部</button>
@@ -103,50 +102,37 @@
           <button class="btn" id="prev">← 上一張</button>
           <button class="btn primary" id="next">下一張 →</button>
         </div>
-        <div class="meta" id="meta">Card 1 / 2</div>
+        <div style="display:flex;align-items:center;gap:8px;">
+          <div class="meta" id="meta">Card 1 / 2</div>
+          <div class="source" id="sourceMeta">來源：內建</div>
+        </div>
       </aside>
     </main>
   </div>
 
 <script>
+/* -----------------------------------------------------------
+   修改說明：
+   - 支援從同 repo 的 vocab.txt（TXT_URL = './vocab.txt'）
+   - 預設會在載入時嘗試抓取，並可點「📤 更新」強制重新抓取
+   - 保留本地匯入（input[type=file]），匯入會覆蓋目前卡片
+------------------------------------------------------------*/
+
 const STORAGE_KEY_STAR = 'vocab_starred_v1';
 const STORAGE_KEY_CARDS = 'vocab_cards_data_v1';
+const TXT_URL = './vocab.txt'; // <-- 放在同一個 repo 的根目錄
 
 let starred = new Set(JSON.parse(localStorage.getItem(STORAGE_KEY_STAR) || '[]'));
 let idx = 0;
 let filter = 'all'; // 'all' or 'star'
 
-// 預設內建字卡資料
+// 預設內建字卡資料（當 fetch / local 都沒有時會顯示）
 let cards = [
   {word:'rehearsal', ipa:'[ rɪˋhɝs! ]', pos:'名詞', meaning:'排練, 排演, 彩排', sentence:'Do you think the university could help us rent a rehearsal space in a commercial dance studio in town, given the situation?', sentence_cn:'你覺得考慮到這種狀況，學校會幫我們在城市中的商業舞蹈室，租借一個排練的場地。'},
   {word:'scramble', ipa:'[ ˈskræmbəl ]', pos:'動詞', meaning:'搶, 抓', sentence:'There are at least a dozen dance and drama groups on campus, and they are all scrambling for rehearsal space right now.', sentence_cn:'在校園裡至少有(一打)十二個舞蹈和戲劇團體，他們目前都在爭搶排練空間。'}
 ];
 
-// 儲存星號
-function saveStars() {
-  localStorage.setItem(STORAGE_KEY_STAR, JSON.stringify(Array.from(starred)));
-}
-
-// 儲存目前卡片資料
-function saveCards() {
-  localStorage.setItem(STORAGE_KEY_CARDS, JSON.stringify(cards));
-}
-
-// 從 localStorage 載入卡片資料（如果有）
-function loadCards() {
-  const saved = localStorage.getItem(STORAGE_KEY_CARDS);
-  if (saved) {
-    try {
-      const parsed = JSON.parse(saved);
-      if (Array.isArray(parsed) && parsed.length > 0) {
-        cards = parsed;
-      }
-    } catch {
-      // 無視錯誤
-    }
-  }
-}
-
+// DOM
 const cardEl = document.getElementById('card');
 const wordTop = document.getElementById('wordTop');
 const ipaEl = document.getElementById('ipa');
@@ -161,6 +147,31 @@ const showAllBtn = document.getElementById('showAll');
 const showStarBtn = document.getElementById('showStar');
 const fileInput = document.getElementById('fileInput');
 const shuffleBtn = document.getElementById('shuffleBtn');
+const fetchBtn = document.getElementById('fetchBtn');
+const sourceMeta = document.getElementById('sourceMeta');
+
+function saveStars() {
+  localStorage.setItem(STORAGE_KEY_STAR, JSON.stringify(Array.from(starred)));
+}
+function saveCards() {
+  localStorage.setItem(STORAGE_KEY_CARDS, JSON.stringify(cards));
+}
+
+// 從 localStorage 載入卡片資料（如果有）
+function loadCards() {
+  const saved = localStorage.getItem(STORAGE_KEY_CARDS);
+  if (saved) {
+    try {
+      const parsed = JSON.parse(saved);
+      if (Array.isArray(parsed) && parsed.length > 0) {
+        cards = parsed;
+        sourceMeta.textContent = '來源：本地 (localStorage)';
+      }
+    } catch (e) {
+      // ignore
+    }
+  }
+}
 
 function getVisibleList() {
   if (filter === 'all') return cards;
@@ -177,6 +188,7 @@ function syncIndex() {
 }
 
 function render() {
+  syncIndex(); // 確保 idx 在合法範圍
   const list = getVisibleList();
   if (list.length === 0) {
     wordTop.textContent = '沒有卡片';
@@ -192,7 +204,7 @@ function render() {
     return;
   }
   const c = list[idx];
-  wordTop.textContent = c.word;
+  wordTop.textContent = c.word || '';
   ipaEl.textContent = c.ipa || '';
   posEl.textContent = c.pos || '';
   engExample.textContent = c.sentence || '';
@@ -209,27 +221,24 @@ function render() {
   }
 }
 
-// 點擊卡片翻面（除了點星號外）
+// 事件：卡片翻面（除了點星號）
 cardEl.addEventListener('click', () => {
   cardEl.classList.toggle('is-flipped');
 });
 
-// 點擊星號切換標記
+// 星號
 starBtn.addEventListener('click', (e) => {
-  e.stopPropagation(); // 阻止冒泡，不會翻面
+  e.stopPropagation();
   const list = getVisibleList();
   if (list.length === 0) return;
   const w = list[idx].word;
-  if (starred.has(w)) {
-    starred.delete(w);
-  } else {
-    starred.add(w);
-  }
+  if (starred.has(w)) starred.delete(w);
+  else starred.add(w);
   saveStars();
   render();
 });
 
-// 下一張
+// 上一 / 下一
 document.getElementById('next').addEventListener('click', () => {
   cardEl.classList.remove('is-flipped');
   const list = getVisibleList();
@@ -237,8 +246,6 @@ document.getElementById('next').addEventListener('click', () => {
   idx = (idx + 1) % list.length;
   render();
 });
-
-// 上一張
 document.getElementById('prev').addEventListener('click', () => {
   cardEl.classList.remove('is-flipped');
   const list = getVisibleList();
@@ -247,29 +254,21 @@ document.getElementById('prev').addEventListener('click', () => {
   render();
 });
 
-// 篩選全部
+// 篩選
 showAllBtn.addEventListener('click', () => {
-  filter = 'all';
-  idx = 0;
-  showAllBtn.classList.add('active');
-  showAllBtn.setAttribute('aria-selected', 'true');
-  showStarBtn.classList.remove('active');
-  showStarBtn.setAttribute('aria-selected', 'false');
+  filter = 'all'; idx = 0;
+  showAllBtn.classList.add('active'); showAllBtn.setAttribute('aria-selected', 'true');
+  showStarBtn.classList.remove('active'); showStarBtn.setAttribute('aria-selected', 'false');
   render();
 });
-
-// 篩選標記
 showStarBtn.addEventListener('click', () => {
-  filter = 'star';
-  idx = 0;
-  showStarBtn.classList.add('active');
-  showStarBtn.setAttribute('aria-selected', 'true');
-  showAllBtn.classList.remove('active');
-  showAllBtn.setAttribute('aria-selected', 'false');
+  filter = 'star'; idx = 0;
+  showStarBtn.classList.add('active'); showStarBtn.setAttribute('aria-selected', 'true');
+  showAllBtn.classList.remove('active'); showAllBtn.setAttribute('aria-selected', 'false');
   render();
 });
 
-// 鍵盤操作：← → 翻頁，空白鍵翻面
+// 鍵盤操作
 window.addEventListener('keydown', (e) => {
   if (e.key === 'ArrowRight') document.getElementById('next').click();
   if (e.key === 'ArrowLeft') document.getElementById('prev').click();
@@ -279,79 +278,94 @@ window.addEventListener('keydown', (e) => {
   }
 });
 
-// 洗牌演算法
+// 洗牌
 function shuffleArray(array) {
   for (let i = array.length - 1; i > 0; i--) {
     const j = Math.floor(Math.random() * (i + 1));
     [array[i], array[j]] = [array[j], array[i]];
   }
 }
-
-// 洗牌按鈕事件
 shuffleBtn.addEventListener('click', () => {
   shuffleArray(cards);
   idx = 0;
   render();
-  saveCards(); // 洗牌後存起來
+  saveCards();
 });
 
-// 匯入 txt 檔案（格式需與你之前的 txt 格式類似）
+// ===== 匯入本地 txt（保留此功能作為備援） =====
 fileInput.addEventListener('change', (e) => {
   const file = e.target.files[0];
   if (!file) return;
-
   const reader = new FileReader();
   reader.onload = (event) => {
     const text = event.target.result;
     parseTxtToCards(text);
-    idx = 0;
-    filter = 'all';
-    showAllBtn.classList.add('active');
-    showAllBtn.setAttribute('aria-selected', 'true');
-    showStarBtn.classList.remove('active');
-    showStarBtn.setAttribute('aria-selected', 'false');
+    idx = 0; filter = 'all';
+    showAllBtn.classList.add('active'); showAllBtn.setAttribute('aria-selected', 'true');
+    showStarBtn.classList.remove('active'); showStarBtn.setAttribute('aria-selected', 'false');
     render();
-    saveCards(); // 匯入成功後存起來
+    saveCards();
+    sourceMeta.textContent = '來源：匯入 (本地檔案)';
   };
   reader.readAsText(file, 'utf-8');
   e.target.value = '';
 });
 
-// 解析 txt 內容轉為 cards 陣列
+// ===== 解析 txt（更容錯） =====
 function parseTxtToCards(txt) {
-  // 預期格式範例（每組間空行分隔）：
-  // rehearsal
-  // [ rɪˋhɝs! ]
-  // 名詞
-  // 排練, 排演, 彩排
-  // Do you think the university could help us rent a rehearsal space in a commercial dance studio in town, given the situation?
-  // 你覺得考慮到這種狀況，學校會幫我們在城市中的商業舞蹈室，租借一個排練的場地。
-
-  const groups = txt.trim().split(/\n\s*\n/);
+  if (!txt || typeof txt !== 'string') return;
+  const groups = txt.trim().split(/\n\s*\n/).map(g => g.trim()).filter(Boolean);
   const newCards = [];
   for (const g of groups) {
-    const lines = g.trim().split('\n');
-    if (lines.length >= 6) {
-      newCards.push({
-        word: lines[0].trim(),
-        ipa: lines[1].trim(),
-        pos: lines[2].trim(),
-        meaning: lines[3].trim(),
-        sentence: lines[4].trim(),
-        sentence_cn: lines[5].trim()
-      });
-    }
+    const lines = g.split('\n').map(l => l.trim()).filter(Boolean);
+    // lines 最少需有 1 行（單字），其餘缺的欄位用空字串補
+    const [word='', ipa='', pos='', meaning='', sentence='', sentence_cn=''] = lines.concat(Array(6).fill('')).slice(0,6);
+    newCards.push({word, ipa, pos, meaning, sentence, sentence_cn});
   }
   if (newCards.length > 0) {
     cards = newCards;
+    return true;
   } else {
-    alert('匯入格式錯誤，請檢查 txt 格式');
+    return false;
   }
 }
 
-// 初始化時先嘗試讀 localStorage 的卡片資料
+// ===== 從同 repo 抓取 vocab.txt =====
+async function fetchTxt() {
+  try {
+    // 加時間戳避免快取
+    const res = await fetch(TXT_URL + '?t=' + Date.now());
+    if (!res.ok) throw new Error('抓取失敗：' + res.status);
+    const text = await res.text();
+    const ok = parseTxtToCards(text);
+    if (ok) {
+      idx = 0; filter = 'all';
+      showAllBtn.classList.add('active'); showAllBtn.setAttribute('aria-selected', 'true');
+      showStarBtn.classList.remove('active'); showStarBtn.setAttribute('aria-selected', 'false');
+      render();
+      saveCards();
+      sourceMeta.textContent = '來源：repo/vocab.txt';
+    } else {
+      console.warn('parseTxtToCards 回傳 false，表示檔案可能格式不符合預期。');
+      alert('從 repo 抓到檔案，但解析失敗，請檢查 vocab.txt 格式。');
+    }
+  } catch (err) {
+    console.warn(err);
+    // 若抓取失敗，不強制覆蓋既有資料
+    if (!localStorage.getItem(STORAGE_KEY_CARDS)) {
+      // 若連 localStorage 都沒有，則用內建範例
+      render();
+    }
+    alert('從 repo 抓取 vocab.txt 失敗（可能檔案不存在或網路問題）。');
+  }
+}
+fetchBtn.addEventListener('click', fetchTxt);
+
+// 初始化流程：先嘗試讀 localStorage（若有），再嘗試 fetch（覆蓋）
 loadCards();
 render();
+// 嘗試自動從 repo 抓取（成功會覆蓋並顯示來源）
+fetchTxt();
 
 </script>
 </body>
