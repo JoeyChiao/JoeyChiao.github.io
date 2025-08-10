@@ -1,10 +1,17 @@
 # TOEFL-Vocabulary-Cards
-Vocabulary Flashcard Features
-This is a simple and easy-to-use online vocabulary flashcard system designed for language learners. You can:
-Browse flashcards: Click on a card to flip and view the word, pronunciation, part of speech, meaning, and example sentences.
-Star important words: Mark words with a star to highlight key vocabulary for focused review.
-Filter cards: Choose to display all words or only the starred ones.
-Shuffle cards: Randomize the order of flashcards to keep your study fresh and engaging.
-Import vocabulary lists: Upload formatted txt files to quickly update your word database.
-Local storage: All starred marks and vocabulary data are saved locally in your browser, no registration required.
-You can also update your vocabulary list via GitHub, allowing easy synchronization between your phone and computer for convenient study anytime, anywhere.
+單字卡功能介紹
+這是一個簡單好用的線上單字卡系統，專為語言學習者設計。你可以：
+
+瀏覽單字卡：點擊卡片翻面，查看單字的英文、音標、詞性、中文解釋和例句。
+
+標記星號：對重要或需要加強的單字加星標，方便篩選和重點複習。
+
+切換篩選：可選擇顯示全部單字或只看已標記的單字。
+
+洗牌功能：隨機打亂單字順序，增加學習新鮮感。
+
+匯入單字庫：支援匯入格式化的 txt 檔案，快速更新自己的單字列表。
+
+本地儲存：所有標記和單字資料會儲存在瀏覽器本地，無須額外註冊即可使用。
+
+此外，你還可以透過 GitHub 更新單字庫，手機和電腦隨時同步使用，方便隨時隨地複習單字。
