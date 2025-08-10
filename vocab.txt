@@ -18,3 +18,10 @@ hypothesis
 假設
 And one of the best-known is called the Milankovitch hypothesis.
 而其中最有名的被稱作米蘭科維奇假說。
+
+oval
+ [ ˋov! ]
+名詞
+橢圓形
+It is more of an oval, it is elliptical.
+而更像一個橢圓。
