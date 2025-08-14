@@ -495,7 +495,7 @@ baleen
 And the same for the toothless whales, like the blue whale and other baleen whales, we assumed that they be closely related.
 沒有牙齒的鯨魚，比如藍鯨和須鯨，他們是有一定聯繫的。
 
-ynonym
+synonym
  [ ˋsɪnə͵nɪm ]
 名詞
 同義詞
@@ -1201,4 +1201,994 @@ esalination
 脫鹽作用, 海水淡化
 Copper's also a key material used in solar heating units and in water desalination plants, which will play increasingly important roles in society.
 銅也是太陽能供熱單元海水淡化廠的關鍵材料，這在社會中會著扮演越來越重要的角色。
+
+enroll
+ [ ɪnˋrol ]
+動詞
+登記, 報名, 參加
+I'm enrolled in a pre-med program for dentistry.
+我報名參加了牙科醫學預科計畫。
+
+drop by
+[ ]
+片語
+順便來訪
+Because I don’t mean you should just drop by at the museum and glance at it so you can say you’ve seen it in real life, you need to go and sit in front of the work and really look at it carefully and slowly, and keep careful notes about what you see.
+因為我的意思不是你們應該只是順路去一趟博物館然後看一眼，這樣就說你們已經親眼看過它了，你們需要去坐在這個作品前，慢慢地仔細地看看它，並且把你們看到的認真地用筆記下來。
+
+muted
+ [ ˋmjutɪd ]
+形容詞
+緩和的, 溫和的
+Are the colors bright or muted?
+色彩是鮮亮的還是柔和的？
+
+innocence
+ [ ˋɪnəsns ]
+名詞
+天真, 單純
+Because of the bird he was holding, I assumed at first that the painting was about the innocence of the children.
+由於他手裡拿著的這只鳥，我起初以為這幅畫是關於兒童的天真。
+
+tundra
+ [ ˋtʌndrə ]
+名詞
+苔原
+The transition from forest to treeless tundra on a mountain slope is often a dramatic one.
+通常從山坡上的森林到沒有樹的苔原是一種非常戲劇化的轉變。
+
+timberline
+ [ ˋtɪmbɚ͵laɪn ]
+名詞
+樹帶（森林）界線
+This rapid zone of transition is called the upper timberline or tree line.
+這種快速過渡的區域被稱為上行樹帶界線或林木線。
+
+semiarid
+ [ ͵sɛmɪˋærɪd ]
+形容詞
+雨量非常少的, 半乾旱的
+In many semiarid areas there is also a lower timberline where the forest passes into steppe or desert at its lower edge, usually because of a lack of moisture.
+在許多乾旱的地區存在著下行樹帶界線，在這裡由於缺乏水分森林變成乾草原，甚至在最下端會出現沙漠。
+
+steppe
+ [ stɛp ]
+名詞
+乾草原
+In many semiarid areas there is also a lower timberline where the forest passes into steppe or desert at its lower edge, usually because of a lack of moisture.
+在許多乾旱的地區存在著下行樹帶界線，在這裡由於缺乏水分森林變成乾草原，甚至在最下端會出現沙漠。
+
+subtropics
+ [ sʌbˋtrɑpɪks ]
+名詞
+亞熱帶, 副熱帶
+It ranges from sea level in the Polar Regions to 4,500 meters in the dry subtropics and 3,500-4,500 meters in the moist tropics.
+從極地地區的海平面到乾燥的亞熱帶地區的海拔4 500米處以及潮濕的熱帶地區海拔3 500米至4500米處都有上行樹帶界線。
+
+deciduous
+ [ dɪˋsɪdʒʊəs ]
+形容詞
+落葉性的
+Timberline trees are normally evergreens, suggesting that these have some advantage over deciduous trees (those that lose their leaves) in the extreme environments of the upper timberline.
+樹帶界線內通常是常綠樹，它們和處於上行樹帶界線處極端惡劣環境中生長的落葉樹木相比，具有一定的優勢。
+
+deform
+ [ dɪˋfɔrm ]
+動詞
+使變形
+At the upper timberline the trees begin to become twisted and deformed.
+上行樹帶界線的樹木開始扭曲和變形。
+
+latitude
+ [ ˋlætə͵tjud ]
+名詞
+緯度
+This is particularly true for trees in the middle and upper latitudes, which tend to attain greater heights on ridges, whereas in the tropics the trees reach their greater heights in the valleys.
+尤其在中高緯度地區的樹木，這些地區的樹木往往會在山脊上長得更高，而在熱帶地區的樹木則在山谷裡長得更高。
+
+valley
+ [ ˋvælɪ ]
+名詞
+山谷
+This is particularly true for trees in the middle and upper latitudes, which tend to attain greater heights on ridges, whereas in the tropics the trees reach their greater heights in the valleys.
+尤其在中高緯度地區的樹木，這些地區的樹木往往會在山脊上長得更高，而在熱帶地區的樹木則在山谷裡長得更高。
+
+favorable
+ [ ˋfevərəb! ]
+形容詞
+有利的
+In the tropics, the valleys appear to be more favorable because they are less prone to dry out, they have less frost, and they have deeper soils.
+在熱帶地區山谷裡更有利於生長，因為山谷不易乾涸、很少結霜，並且有更深的土壤。
+
+cessation
+ [ sɛˋseʃən ]
+名詞
+停止
+There is still no universally agreed-on explanation for why there should be such a dramatic cessation of tree growth at the upper timberline.
+目前還沒有一個普遍認同的解釋來說明為什麼會在樹帶界線上出現樹木停止生長這種戲劇化的現象。
+
+smother
+ [ ˋsmʌðɚ ]
+動詞
+透不過氣來, 窒息
+Too much snow, for example, can smother trees, and avalanches and snow creep can damage or destroy them.
+例如，積雪過多會讓樹木透不過氣，雪崩和雪移能摧毀樹木。
+
+avalanche
+ [ ˋæv!͵æntʃ ]
+名詞
+雪崩
+Too much snow, for example, can smother trees, and avalanches and snow creep can damage or destroy them.
+例如，積雪過多會讓樹木透不過氣，雪崩和雪移能摧毀樹木。
+
+seedling
+ [ ˋsidlɪŋ ]
+名詞
+幼苗
+Late-lying snow reduces the effective growing season to the point where seedlings cannot establish themselves.
+長時間積雪縮短了有效生長季節的時間，樹苗無法生長。
+
+elevation
+ [ ͵ɛləˋveʃən ]
+名詞
+高度, 海拔
+Some scientists have proposed that the presence of increasing levels of ultraviolet light with elevation may play a role, while browsing and grazing animals like the ibex may be another contributing factor.
+一些科學家提出，隨著海拔的上升而不斷增強的紫外線、野生山羊等動物的放養，都是導致樹帶界線形成的因素。
+
+browse
+ [ braʊz ]
+動詞
+（牲畜）吃葉
+Some scientists have proposed that the presence of increasing levels of ultraviolet light with elevation may play a role, while browsing and grazing animals like the ibex may be another contributing factor.
+一些科學家提出，隨著海拔的上升而不斷增強的紫外線、野生山羊等動物的放養，都是導致樹帶界線形成的因素。
+
+ibex
+ [ ˋaɪbɛks ]
+名詞
+阿爾卑斯山的野山羊
+Some scientists have proposed that the presence of increasing levels of ultraviolet light with elevation may play a role, while browsing and grazing animals like the ibex may be another contributing factor.
+一些科學家提出，隨著海拔的上升而不斷增強的紫外線、野生山羊等動物的放養，都是導致樹帶界線形成的因素。
+
+tree shoot
+[ ]
+名詞
+樹枝
+Probably the most important environmental factor is temperature, for if the growing season is too short and temperatures are too low, tree shoots and buds cannot mature sufficiently to survive the winter months.
+或許最重要的環境因素是溫度，因為如果生長季節太短並且氣溫太低，樹芽和樹苗都無法充分地成長而在冬季存活。
+
+alpine tundra
+[ ]
+名詞
+高山凍原
+Above the tree line there is a zone that is generally called alpine tundra.
+在林木線之上有一個稱為高山苔原的地帶。
+
+prostrate
+ [ ˋprɑstret ]
+動詞
+使俯臥, 弄倒
+Immediately adjacent to the timberline, the tundra consists of a fairly complete cover of low-lying shrubs, herbs, and grasses, while higher up the number and diversity of species decrease until there is much bare ground with occasional mosses and lichens and some prostrate cushion plants.
+由於緊挨著樹帶界線，苔原上都是矮灌木、草本植物和牧草。隨著海拔的增加，物種的數量和多樣性會逐漸減少，直到出現大量空地伴著零星的苔蘚和地衣這樣的伏地墊狀植物。
+
+cushion
+ [ ˋkʊʃən ]
+名詞
+墊子
+Immediately adjacent to the timberline, the tundra consists of a fairly complete cover of low-lying shrubs, herbs, and grasses, while higher up the number and diversity of species decrease until there is much bare ground with occasional mosses and lichens and some prostrate cushion plants.
+由於緊挨著樹帶界線，苔原上都是矮灌木、草本植物和牧草。隨著海拔的增加，物種的數量和多樣性會逐漸減少，直到出現大量空地伴著零星的苔蘚和地衣這樣的伏地墊狀植物。
+
+snowdrift
+ [ ˋsno͵drɪft ]
+名詞
+隨風飄飛的雪
+At this great height, rocks, warmed by the sun, melt small snowdrifts.
+在這個高度上，被陽光溫暖過的岩石可以將小雪堆融化。
+
+rigor
+ [ ˋrɪgɚ ]
+名詞
+艱苦
+This enables them to avoid the worst rigors of high winds and permits them to make use of the higher temperatures immediately adjacent to the ground surface.
+這種特點使他們能夠避開大風最強勢的勢頭，並且有助於他們利用緊鄰地面相對較高的溫度。
+
+prevalent
+ [ ˋprɛvələnt ]
+形容詞
+盛行的, 普遍的
+In the equatorial mountains the low growth form is less prevalent.
+在赤道區的山脈上低矮的生長形態並不常見。
+
+equatorial
+ [ ͵ɛkwəˋtorɪəl ]
+名詞
+赤道的, 赤道附近的
+In the equatorial mountains the low growth form is less prevalent.
+在赤道區的山脈上低矮的生長形態並不常見。
+
+sewer
+ [ ˋsuɚ ]
+名詞
+下水道
+Have you ever heard the one about alligators living in New York sewers?
+你是否有聽過在紐約下水道生活的短吻鱷的故事？
+
+meme
+ [ mim ]
+名詞
+迷因
+Well, both the song and the story are examples of memes.
+這個故事和這首歌都是用來引出模因的兩個例子。
+
+analogy
+ [ əˋnælədʒɪ ]
+名詞
+類比
+Well, the whole point of defining this familiar process as transmission of memes is so that we can explore its analogy with the transmission of genes.
+將這種人們熟悉的程序定義為模因傳遞的重點在於我們能夠可以將它與基因的傳遞進行類比。
+
+fecundity
+ [ fɪˋkʌndətɪ ]
+名詞
+繁殖力
+To be a successful replicator, there are three key characteristics: longevity, fecundity and fidelity.
+成功的複製器必須具備三個關鍵特徵：壽命長，繁殖力好和準確性強。
+
+fidelity
+ [ fɪˋdɛlətɪ ]
+名詞
+準確性
+To be a successful replicator, there are three key characteristics: longevity, fecundity and fidelity.
+成功的複製器必須具備三個關鍵特徵：壽命長，繁殖力好和準確性強。
+
+mutate
+ [ ˋmjutet ]
+動詞
+產生突變
+An organism often cannot survive with a mutated gene.
+如果出現基因突變，生物是不能存活下去的。
+
+atlas
+ [ ˈætləs ]
+名詞
+圖冊
+Efforts at mapping or surveying the universe, making a sort of atlas of galaxies, have been going on for more than 50 years.
+努力調查或測量宇宙，作成星系分類圖冊，持續時間超過50年。
+
+lopsided
+ [ lɑpˋsaɪdɪd ]
+形容詞
+不平衡的, 向一側傾斜的
+An irregular cluster might appear to be lopsided, asymmetrical, with a little concentration of galaxies in the center.
+不規則的集群有可能傾向單邊、不對稱、在星系中心有一點集中。
+
+megaparsec
+ [ megəˌpɑsek ]
+名詞
+百萬秒差距
+He said basically that clusters have a radius of roughly 2 megaparsecs.
+他說基本上集群粗估半徑是2 百萬秒差距。
+
+compelling
+ [ kəmˋpɛlɪŋ ]
+形容詞
+令人信服的
+There's compelling evidence that global warming will be a significant driver of many plant and animal extinctions in this century.
+有力證據表明全球變暖將成為本世紀動植物物種滅絕的重要驅動因素。
+
+radical
+ [ ˋrædɪk! ]
+形容詞
+根本的
+Um... the most radical strategy being debated among conservation biologists is Assisted Migration.
+飽受保護生物學家爭議的一種根本的方法是“輔助遷移”。
+
+unprecedented
+ [ ʌnˋprɛsə͵dɛntɪd ]
+形容詞
+史無前例的
+So we are considering various strategies to help some threatened species survive this unprecedented, this warming trend which, as you know, is caused mainly by greenhouse gases produced by the burning of fossil fuels.
+因此我們在尋求各種方法來幫助瀕危物種倖免於這次空前的全球暖化現象。眾所周知，全球變暖是由燃燒化石燃料產生的溫室氣體造成的。
+
+translocate
+ [ ˋtrænslo͵ket ]
+動詞
+改變位置
+A translocated species could die out from lack of food, for example.
+例如一個被人為遷移的物種有可能會因缺少食物而滅絕。
+
+viable
+ [ ˋvaɪəb! ]
+形容詞
+可實行的
+Now, assisted migration could become a viable part of our rescue strategy, but there are a number of uncertainties and risks.
+現在，輔助遷移可以被看作拯救策略的一部分，但是其中也存在著一些不確定性因素和風險。
+
+proliferate
+ [ prəˋlɪfə͵ret ]
+動詞
+繁衍
+At the other extreme, we might successfully translocate the species, but within five or ten years that species could proliferate and become an invasive species.
+而另一種極端的情形則是物種被成功遷移，但是在五到十年內該物種迅速繁衍，成為對當地物種構成威脅的入侵物種。
+
+hog
+ [ hɑg ]
+動詞
+貪婪霸佔
+Like a non-native plant that chokes out native plants by hogging the nutrients in the soil.
+如同外來植物攫取土壤中的營養物質，由此扼殺當地植物那樣。
+
+intimately
+ [ ˋɪntəmɪtlɪ ]
+副詞
+緊密地
+Also, many species are interdependent, intimately connected to one another.
+然而，許多物種是互相依存的，互相緊密地連結。
+
+oversight
+ [ ˋovɚ͵saɪt ]
+名詞
+監督
+Assisted Migration really needs this level of oversight, and soon.
+輔助遷移的確需要來自這個層次的監管，而且是急需。
+
+endangered
+ [ ɪnˋdendʒɚd ]
+形容詞
+瀕臨絕種的
+In one case, a group of conservationists has already taken it upon itself to try on their own to save an endangered tree, the Florida Torreya tree, through Assisted Migration.
+有一個案例就是，一群環境保護主義者決定採用輔助遷移的方法自行拯救瀕臨滅絕的樹——佛羅裡達州的榧樹。
+
+maverick
+ [ ˋmævərɪk ]
+名詞
+持不同意見的
+The group believed its effort is justified, but I and many other biologists will be watching very closely how this maverick group makes out, because like I said, there could be unintended consequences.
+這個小組認為這次行動是正義之舉，但是我和其他生物學家會密切關注這個特立獨行的小組的成果如何，因為，正如我以上所說，輔助遷移可能會帶來意想不到的後果。
+
+interdependent
+ [ ͵ɪntɚdɪˋpɛndənt ]
+形容詞
+相互依賴的
+Assisted migration means picking up members of a species, or members of a group of interdependent species and physically moving or translocating them.
+“輔助遷移”是指從某一物種或者相關聯的幾個物種中挑選樣本群體人為將其遷移。
+
+prairie
+ [ ˋprɛrɪ ]
+名詞
+大草原
+Housing developments, highways and cities have replaced or sliced through forests and prairies.
+房屋、高速公路以及城市取代或割裂了森林和草原。
+
+sugarcane
+ [ ˋʃʊgɚ͵ken ]
+名詞
+甘蔗
+The cane toad was introduced back in 1935 to control an insect pest that was destroying Australia's sugarcane plantations.
+1935年為了除掉澳大利亞甘蔗種植園中的一種有害昆蟲，蔗蟾蜍被引入。
+
+invertebrate
+ [ ɪnˋvɝtəbrɪt ]
+形容詞
+無脊椎的
+People aren't even required to seek permits to move plants or invertebrate animals around as long as they are not classified as pests.
+人們甚至可以未經許可而遷移植物或無脊椎動物，只要它們未被歸類為有害動植物。
+
+cafeteria
+ [ ͵kæfəˋtɪrɪə ]
+名詞
+自助餐廳, 食堂
+Um, so backing up, service design is, um, think of the cafeteria here on campus.
+那麼再回過來，服務設計是……嗯，你可以想想學校這裡的自助餐廳。
+
+protocol
+ [ ˋprotə͵kɑl ]
+名詞
+禮儀
+Service standard refers to what company, employees, are ideally supposed to do in order for everything to operate smoothly, the protocols to be followed.
+服務標準指的是為了讓一切都能順利運行，一個公司……員工理想中應該做的事情，也就是要遵循的規程。
+
+fresco
+ [ ˋfrɛsko ]
+名詞
+壁畫
+So far we have been talking all semester about restoring and preserving pieces of art, like ancient frescos, early oil paintings, etc.
+直到現在為止，我們整個學期講的都是修復和保護藝術作品，像古代壁畫，早期的油畫等等。
+
+commonplace
+ [ ˋkɑmən͵ples ]
+形容詞
+平凡的, 普通的
+This maybe commonplace today, but was revolutionary in his time.
+現在看來是很平常的事，但在當時是具有革命性的。
+
+tuck away
+[ ]
+片語
+妥善收藏, 安全保管
+It could have ended up tucked away in a private collection, but fortunately, the collector who bought it has agreed to have experts restore every single world Archimedes wrote, so the contents can be shared with the world and studied.
+本來它可能會變成私人收藏裡妥善保管的一份藏品，但幸運的是，買下它的收藏家同意讓專家來修復阿基米德寫的每一個字，那麼重寫本的內容就能與全世界分享，供人們研究了。
+
+crumble
+ [ ˋkrʌmb! ]
+動詞
+瓦解, 崩裂
+So probably some pages are at the point of crumbling into dust?
+聽上去這個本子很舊了，很可能某些紙頁馬上就要化成塵土了。
+
+moldy
+ [ ˋmoldɪ ]
+形容詞
+發黴的, 破舊的
+And some are moldy, and some were eaten away at by bookworms.
+有些還發黴了，有些已經被蛀書蟲啃掉了。
+
+parchment
+ [ ˋpɑrtʃmənt ]
+名詞
+羊皮紙, 羊皮紙古文稿
+Well, they used parchment to write on, but yes, there was a parchment shortage.
+他們用羊皮紙書寫，但對的，當時羊皮紙也出現短缺。
+
+forger
+ [ ˋfɔrdʒɚ ]
+名詞
+偽造者
+Then, even later on, in the twentieth century, a forger painted ancient-looking pictures on several of the pages in order to make the book seem older and increase its value.
+再晚些時候，在20世紀，一個造假者為了讓書看起來更古老以提高價格，在某些書頁上畫了一些看起來像是古代畫的圖。
+
+interdisciplinary
+ [ ͵ɪntɚˋdɪsəplɪ͵nɛrɪ ]
+形容詞
+各學科間的, 跨學科
+There's a lot of interdisciplinary work.
+很多的工作都是跨學科的。
+
+at the point of
+[ ]
+片語
+即將…之時，正要…之時
+As we were at the point of giving up hope, a letter arrived.
+正當我們要放棄希望之時，來了一封信。
+
+thought-provoking
+ [ ˋθɔtprə͵vokɪŋ ]
+形容詞
+引起思考的, 發人深省的
+I've gotten some very thought-provoking papers from students whose interests go beyond history.
+我有些論文，是從那些興趣不止在歷史的學生那兒得來的，這些論文都非常發人深省。
+
+medieval
+ [ ͵mɪdɪˋivəl ]
+形容詞
+中古的, 中世紀的
+Actually, the model for planning a town in the Northern colonies was not unlike the model for the development of towns in medieval Europe.
+事實上，北部殖民地的城鎮規劃模式和中世紀歐洲的城鎮發展模式沒什麼兩樣。
+
+trading post
+[ ]
+名詞
+商棧, 交易站
+In the South, at least initially, they didn't build towns so much as they built trading posts.
+在南方，至少在一開始，人們建的城鎮還沒有貿易點多。
+
+cradle
+ [ ˈkredl ]
+名詞
+發源地
+Those cradles of agriculture include the Middle East, China and Southeast Asia, and parts of the Americas.
+農業的發源地包括中東、中國大陸、東南亞以及美洲的部分地方。
+
+deforestation
+ [ ͵difɔrəsˋteʃən ]
+名詞
+森林砍伐
+For instance, although evidence was found of deforestation, you know, cutting down trees, from at least 7,000 years ago, that is long before we'd thought previously.
+例如，正如你所知道的，雖然發現有森林砍伐的證據，但砍伐樹木，遠比我們預想的要早，至少開始於7000年前。
+
+predate
+ [ priˈdet ]
+動詞
+預早
+Based on their findings, they identified a succession of phases of agricultural development in the wetlands there, with several of these phases predating the earliest known agricultural influence from Southeast Asia.
+
+swampy
+ [ ˈswɑmpɪ ]
+形容詞
+沼澤的
+And many plant remains like seeds and fruits don't preserve well in swampy soils, in humid environments like you often find in New Guinea.
+許多植物殘留著像種子和果實，無法妥善保存於沼澤土壤，就如同你經常在新幾內亞發現的潮濕環境。
+
+sediment
+ [ ˋsɛdəmənt ]
+名詞
+沉積物
+At the site in Kuk, they used an array of modern archaeological methods to analyze sediment samples from the soil.
+在新幾內亞庫科遺跡，他們大量使用現代的考古方法來分析土壤沉積物的樣品。
+
+drainage
+ [ ˋdrenɪdʒ ]
+名詞
+排水
+Plants are tied to stakes, and ditches are for... for drainage, a proof of a very early, first phase of agricultural development.
+植物綁在樁上，溝渠是...供排水，這是非常早期農業發展第一階段的證據。
+
+mound
+ [ maʊnd ]
+名詞
+土堆
+The second phase, which they identify from a higher layer of soil, featured regularly distributed mounds.
+第二階段，他們和較高土層是有區別的，有規則地分佈在土堆中。
+
+domesticate
+ [ dəˋmɛstə͵ket ]
+動詞
+培育
+As a matter of fact, recent genetic research, genetic comparisons of banana species, suggests that the type of banana grown in New Guinea was domesticated there and then brought to Southeast Asia.
+事實上，最近的基因研究，和香蕉物種相比較，表明香蕉是在新幾內亞培育的植物，然後被帶到東南亞。
+
+egalitarian
+ [ ɪ͵gælɪˋtɛrɪən ]
+形容詞
+平等的
+It's remained an egalitarian and rural society, so what does that tell us about the usual assumption?
+它依然是一個平等的農村社會，所以這究竟告訴了我們哪些常用的假設呢？
+
+internship
+名詞
+實習
+Jane has a summer internship at a local TV station.
+簡暑期時在當地一家電視台實習。
+
+certification
+ [ ͵sɝtɪfəˋkeʃən ]
+名詞
+鑒定, 證書
+Well, the internship requires me to have scuba diving certification and to be a senior oceanography student.
+這個實習要求我有蛙潛證書，而且還得是海洋地理學高年級的學生才行。
+
+secrete
+ [ sɪˋkrit ]
+動詞
+分泌
+A fungus secretes enzymes into the soil, enzymes that break down, decompose organic material in the soil.
+真菌會分泌酶進入土壤，而酶，會分解土壤中的有機物質。
+
+enzyme
+ [ ˋɛnzaɪm ]
+名詞
+酶
+A fungus secretes enzymes into the soil, enzymes that break down, decompose organic material in the soil.
+真菌會分泌酶進入土壤，而酶，會分解土壤中的有機物質。
+
+chitin
+ [ kaɪtɪn ]
+名詞
+甲殼素
+And that's thanks in part to a substance in their cell walls called Chitin.
+這某種程度上要歸功於其細胞壁上一種稱為甲殼素的物質。
+
+exoskeleton
+ [ ˈeksoʊskelɪtn ]
+名詞
+外骨骼
+Believe it or not, the only other place chitin is found in abundance is in the exoskeletons of insects, crabs and such.
+信不信由你，其他唯一可找到大量甲殼素的地方是在是昆蟲、螃蟹等等之外骨骼中。
+
+filamentous
+ [ fɪlə'ment'əs ]
+形容詞
+絲狀的
+And the chitin in the cell walls of a filamentous fungus...a filament, of course, is a long thread-like structure, cells joined end to end.
+也有在絲狀真菌細胞壁內的甲殼素，---絲狀---當然，是一個長螺紋狀結構，各細胞的末端接合末端。
+
+detoxify
+ [ ˌdiˈtɑksɪfaɪ ]
+動詞
+解毒
+And a filamentous fungus can adsorb toxic heavy metals, bind them to the surface of its enormous network of filaments, and thereby detoxify a large soil ecosystem.
+絲狀真菌能吸附有毒重金屬，它們綁於其巨大的長絲網表面，借此解除了大土壤生態系統的毒性。
+
+leach
+ [ litʃ ]
+動詞
+析出
+The heavy metals are still there, but instead of leaching into the water system and contaminating the water underground, large amounts of these metals may remain bound to the chitin, to the cell walls of filamentous fungi in the soil, and thus remain chemically inactive for as long as 30 years, perhaps longer.
+重金屬仍然存在，但並不是析出到水系統、污染了地下水，而是這些大量的金屬可維持結合在土壤中絲狀真菌的細胞壁上，因此能維持化學惰性長達30年，或許更為長久。
+
+contaminate
+ [ kənˋtæmə͵net ]
+動詞
+污染
+The heavy metals are still there, but instead of leaching into the water system and contaminating the water underground, large amounts of these metals may remain bound to the chitin, to the cell walls of filamentous fungi in the soil, and thus remain chemically inactive for as long as 30 years, perhaps longer.
+重金屬仍然存在，但並不是析出到水系統、污染了地下水，而是這些大量的金屬可維持結合在土壤中絲狀真菌的細胞壁上，因此能維持化學惰性長達30年，或許更為長久。
+
+pharmaceutical
+ [ ˌfɑrməˈsutɪkl ]
+形容詞
+製藥的
+For example, the pharmaceutical Industry grows filamentous fungi in large quantities in the lab, like to produce the antibiotic penicillin, the drug company grows the fungus penicillium, and after the penicillin is extracted, these dead penicillium filaments, we can use the chitin in their cell walls to make industrial filters to adsorb heavy metals.
+例如，製藥行業在實驗室中，就像生產抗生素青黴素一樣，大量生長絲狀真菌。製藥公司生長出真菌青黴菌，提取青黴素之後，這些死了青黴菌絲，我們可以使用在其細胞壁的甲殼素，作為工業篩檢程式以吸附重金屬。
+
+penicillin
+ [ ˌpɛnɪˈsɪlɪn ]
+名詞
+青黴素
+For example, the pharmaceutical Industry grows filamentous fungi in large quantities in the lab, like to produce the antibiotic penicillin, the drug company grows the fungus penicillium, and after the penicillin is extracted, these dead penicillium filaments, we can use the chitin in their cell walls to make industrial filters to adsorb heavy metals.
+例如，製藥行業在實驗室中，就像生產抗生素青黴素一樣，大量生長絲狀真菌。製藥公司生長出真菌青黴菌，提取青黴素之後，這些死了青黴菌絲，我們可以使用在其細胞壁的甲殼素，作為工業篩檢程式以吸附重金屬。
+
+champion
+ [ ˋtʃæmpɪən ]
+動詞
+支持
+Ecologist Paul S. Martin has championed the model that associates the extinction of large mammals at the end of the Pleistocene with human predation.
+生態學家保羅•馬丁（Paul S. Martin）提出將更新世末期大型哺乳動物滅絕與人類捕食相關聯的模式。
+
+burgeoning
+ [ ˋbɝdʒənɪŋ ]
+形容詞
+增長迅速的
+With researcher J. E. Mosimann, he has co-authored a work in which a computer model showed that in around 300 years, given the right conditions, a small influx of hunters into eastern Beringia 12,000 years ago could have spread across North America in a wave and wiped out game animals to feed their burgeoning population.
+研究人員JE Mosimann與他合作建立了一個計算機模型，展示在大約300年的時間裡，條件正確的話，12,000年前在Beringia東部的小量湧入的獵人會波浪式地快速傳播到北美洲， 消除野獸以養活其新增的人口。
+
+mammoth
+ [ ˋmæməθ ]
+名詞
+【古生】毛象
+For example, geologist Larry Agenbroad has mapped the locations of dated Clovis sites alongside the distribution of dated sites where the remains of wooly mammoths have been found in both archaeological and purely paleontological contexts.
+例如，地質學家Larry Agenbroad已經在地圖上標識出了那個時期的克洛維斯遺址的位置以及在考古學和生物學立場下發現羊毛猛獁一體的遺址分佈。
+
+synchronicity
+ [ ͵sɪŋkrəˋnɪsətɪ ]
+名詞
+同步性
+These distributions show remarkable synchronicity (occurrence at the same time).
+這些分佈顯示出明顯的同步性（同時發生）。
+
+minuscule
+ [ ˈmɪnəˌskjul, mɪˈnʌsˌkjul ]
+形容詞
+微小的
+There are still fewer than 20 Clovis sites where the remains of one or more mammoths have been recovered, a minuscule proportion of the millions that necessarily would have had to have been slaughtered within the overkill scenario.
+但是仍然有不到20個克洛維斯遺址，其中一頭或多頭猛獁象的遺體已經被發現，這只是數百萬在過度屠殺的情況下被殺害的猛獁象的一些小部分。
+
+herbivore
+ [ ˋhɝbə͵vɔr ]
+名詞
+食草動物
+Grayson has also shown that the evidence is not so clear that all or even most of the large herbivores in late Pleistocene America became extinct after the appearance of Clovis.
+格雷森還表明，更新世時期末期美洲的所有甚至大部分大型食草動物在克洛維斯出現後都滅絕了的證據不是很清楚。
+
+hand out
+[ ]
+片語
+分發
+And you can hand them out too.
+你還能把
+
+neat
+ [ nit ]
+形容詞
+靈巧的
+I did something really neat for someone last week.
+我上周幫別人做了一些很精緻的東西。
+
+sticky note
+[ ]
+名詞
+便利貼
+Oh, and you know those little sticky notes?
+你知道那些便利貼嗎？
+
+attention getter
+[ ]
+名詞
+引人注目的東西
+I think those bright pieces of paper would be real attention getters.
+我覺得那些亮色紙片能真正吸引人們的注意。
+
+batch
+ [ bætʃ ]
+名詞
+一批
+Like for a batch of 250 for one of our standard designs, 20 dollars maybe.
+比如一批標準設計的名片，250張，大概20美金吧。
+
+trace
+ [ tres ]
+名詞
+微量
+Just before the end of the last class, we started talking about trace metals, metals found in living organisms in very small quantities that serve important biological and important nutritive function in these organisms.
+就在上節課結束前， 我們開始講微量金屬，即在生物體中含量非常低的金屬元素，對生物體而言具有很重要的生物和營養功能。
+
+nutritive
+ [ ˋnjutrətɪv ]
+形容詞
+營養的
+And one trace metal that serves a nutritive function is zinc.
+一種具有營養功能的微量金屬是鋅。
+
+respiration
+ [ ͵rɛspəˋreʃən ]
+名詞
+呼吸
+So, take respiration, our bodies - our cells produce carbon dioxide when they break down sugars.
+拿呼吸作用舉例，我們的身體——我們的細胞在分解醣分時會產生二氧化碳。
+
+incorporate
+ [ ɪnˋkɔrpə͵ret ]
+動詞
+包含, 合併
+Instead, this new enzyme incorporates another trace metal - cadmium.
+這種新酶中包含的微量金屬反而是鎘。
+
+culprit
+ [ ˋkʌlprɪt ]
+名詞
+犯人, 罪犯
+What is one of the most common greenhouse gases in our atmosphere, one of the major culprits in global warming?
+什麼是大氣中最常見的溫室氣體，導致全球變暖的罪魁禍首之一？
+impose on
+片語
+強使某人接受
+Many signals that animals make seem to impose on the signalers costs that are overly damaging.
+有些動物發出的信號可能會給他們自身帶來極大危害。
+
+signaler
+ [ ˋsɪgnəlɚ ]
+名詞
+信號裝置
+Many signals that animals make seem to impose on the signalers costs that are overly damaging.
+有些動物發出的信號可能會給他們自身帶來極大危害。
+
+hawk
+ [ hɔk ]
+名詞
+鷹, 隼
+These loud cheeps and peeps might give the location of the nest away to a listening hawk or raccoon, resulting in the death of the defenseless nestlings.
+這些喧鬧的叫聲可能會讓巢外的老鷹和浣熊聽到並獲取到它們的位置資訊，從而致使毫無抵抗能力的雛鳥喪命。
+
+raccoon
+ [ ræˋkun ]
+名詞
+浣熊
+These loud cheeps and peeps might give the location of the nest away to a listening hawk or raccoon, resulting in the death of the defenseless nestlings.
+這些喧鬧的叫聲可能會讓巢外的老鷹和浣熊聽到並獲取到它們的位置資訊，從而致使毫無抵抗能力的雛鳥喪命。
+
+warbler
+ [ ˋwɔrblɚ ]
+名詞
+鶯
+Further evidence for the costs of begging comes from a study of differences in the begging calls of warbler species that nest on the ground versus those that nest in the relative safety of trees.
+一項關於地面築巢的黃鶯與住在相對安全的樹上的黃鶯對比的研究進一步為乞食行為的代價提供了證據。
+
+versus
+ [ ˋvɝsəs ]
+介係詞
+與…相對
+Further evidence for the costs of begging comes from a study of differences in the begging calls of warbler species that nest on the ground versus those that nest in the relative safety of trees.
+一項關於地面築巢的黃鶯與住在相對安全的樹上的黃鶯對比的研究進一步為乞食行為的代價提供了證據。
+
+conceal
+ [ kənˋsil ]
+動詞
+隱藏
+These higher-frequency sounds do not travel as far, and so may better conceal the individuals producing them, who are especially vulnerable to predators in their ground nests.
+這種高頻的聲音不會傳播的很遠，可以更好地隱藏在地面鳥巢裡單獨發出這種聲音而容易成為捕食者攻擊的雛鳥。
+
+advertise
+ [ ˋædvɚ͵taɪz ]
+動詞
+使顯眼, 使突出
+The eggs “advertised” by the tree-nesters' begging calls were found bitten significantly more often than the eggs associated with the ground-nesters' calls.
+置於樹上築巢的 聲音旁邊的“被注意的”鳥蛋被發現的幾率顯然要比地面築巢的黃鶯的鳥蛋高得多。
+
+victimize
+ [ ˋvɪktɪ͵maɪz ]
+動詞
+使犧牲
+The hypothesis that begging calls have evolved properties that reduce their potential for attracting predators yields a prediction: baby birds of species that experience high rates of nest predation should produce softer begging signals of higher frequency than nestlings of other species less often victimized by nest predators.
+一個關於乞食行為的假說認為，乞食聲已經進化出一種避免引起捕食者注意並及時作出預警的特性：比起那些較少受到捕食者捕食的雛鳥相比，被捕食率高的鳥類的雛鳥需要發出更輕柔頻率更好的叫聲。
+
+vigorous
+ [ ˋvɪgərəs ]
+形容詞
+精力充沛的
+If parent birds use begging intensity to direct food to healthy offspring capable of vigorous begging, then parents should make food delivery decisions on the basis of their offsprings’ calls.
+如果鳥父母是根據乞食聲音的響亮程度來給那些健康且更積極乞食的幼鳥餵食，那麼鳥父母應該是根據幼崽乞食聲來分配食物的。
+
+propagate
+ [ ˋprɑpə͵get ]
+動詞
+繁殖
+An individual's success in propagating his or her genes can be affected by more than just his or her own personal reproductive success.
+一個物種成功延續它的基因所產生的影響要比它自身繁殖所帶來的影響大的多。
+
+runoff
+ [ ˋrʌn͵ɔf ]
+名詞
+徑流
+Two types of flow features are seen: runoff channels and outflow channels. Runoff channels are found in the southern highlands.
+兩種流動形式已經被發現：徑流通道和外流通道。徑流通道發現於南部的高地。
+
+bear
+ [ bɛr ]
+動詞
+具有, 帶有
+They bear a strong resemblance to river systems on Earth, and geologists think that they are dried-up beds of long-gone rivers that once carried rainfall on Mars from the mountains down into the valleys.
+它們和地球上的河流系統非常相似，地質學家們認為它們是以前曾將火星上的雨水從高山攜帶到峽谷中的那些河流乾涸後的遺跡。
+
+speculate
+ [ ˋspɛkjə͵let ]
+動詞
+推測
+Some scientists speculate that Mars may have enjoyed an extended early Period during which rivers, lakes, and perhaps even oceans adorned its surface.
+一些科學家推測早期的火星上廣泛存在著河流，湖泊甚至是海洋。
+
+crater
+ [ ˋkretɚ ]
+名詞
+火山口
+A 2003 Mars Global Surveyor image shows what mission specialists think may be a delta—a fan-shaped network of channels and sediments where a river once flowed into a larger body of water, in this case a lake filling a crater in the southern highlands.
+一份2003年的對火星全球的調查照片顯示了一個科學家們認為是三角洲的構造——一個扇形的沉積物和水流通道的網路，河流可能是從這裡流入了一個更大的水體；在這種情況下，它可能是南部高地的一個火山口湖泊。
+
+delta
+ [ ˋdɛltə ]
+名詞
+三角洲
+A 2003 Mars Global Surveyor image shows what mission specialists think may be a delta—a fan-shaped network of channels and sediments where a river once flowed into a larger body of water, in this case a lake filling a crater in the southern highlands.
+一份2003年的對火星全球的調查照片顯示了一個科學家們認為是三角洲的構造——一個扇形的沉積物和水流通道的網路，河流可能是從這裡流入了一個更大的水體；在這種情況下，它可能是南部高地的一個火山口湖泊。
+
+rim
+ [ rɪm ]
+名詞
+緣, 邊緣
+The Hellas Basin, which measures some 3,000 kilometers across and has a floor that lies nearly 9 kilometers below the basin’s rim, is another candidate for an ancient Martian sea.
+一張關於火星北部極地地區的電腦圖片說明有可能有一個古老的海洋覆蓋了大部分北部的低窪處。那座有大約3 000公里寬，9公里深的希臘盆地也可能是火星海洋。
+
+detractor
+ [ dɪˋtræktɚ ]
+名詞
+反對者
+But detractors maintain that the terraces could also have been created by geological activity, perhaps related to the geologic forces that depressed the Northern Hemisphere far below the level of the south, in which case they have nothing whatever to do with Martian water.
+但是反對者認為這些臺地也可能是由於地質活動造成的，也許與使得北半球比南半球地勢更低的地質力有關，在這種情況下，它們就和火星水系沒有任何關係。
+
+gully
+ [ ˋgʌlɪ ]
+名詞
+小峽谷
+Aside from some small-scale gullies (channels) found since 2000, which are inconclusive, astronomers have no direct evidence for liquid water anywhere on the surface of Mars today, and the amount of water vapor in the Martian atmosphere is tiny.
+除了在2000年發現了一些小規模的、不確定的溪谷以外，天文學家到目前為止還沒有在星球的什麼地方找到液態水存在的直接證據。
+
+permafrost
+ [ ˋpɝmə͵frɔst ]
+名詞
+永久凍土（層）
+The answer may be that virtually all the water on Mars is now locked in the permafrost layer under the surface, with more contained in the planet’s polar caps.
+答案可能是火星上所有的水實際上現在已經封存在其地下的永久凍層中，並且在極地地區最多。
+
+hydrosphere
+ [ ˋhaɪdrəsfɪr ]
+名詞
+水氣
+On a solid planet with a hydrosphere and an atmosphere, only a tiny fraction of the planetary mass flows as surface fluids.
+在一個擁有水圈和大氣的固體行星上，行星表面的流體只占其重量的一小部分。
+
+terrestrial
+ [ təˋrɛstrɪəl ]
+形容詞
+地球的
+Consider Venus and Earth, both terrestrial planets with atmospheres.
+比如金星和地球，這兩顆類地行星都擁有大氣層。
+
+endow
+ [ ɪnˋdaʊ ]
+動詞
+賦予
+They are about the same size, are composed of roughly the same mix of materials, and may have been comparably endowed at their beginning with carbon dioxide and water.
+它們的大小大致相同，大體上由相同的材料組成，並且相比其他行星，它們可能自誕生之時起就含有二氧化碳和水。
+
+rift
+ [ rɪft ]
+動詞
+斷裂
+With a significant amount of internal heat, Venus may continue to be geologically active with volcanoes, rifting, and folding.
+金星內部含有大量熱能，所以在金星上，火山、裂陷、折疊等地質活動可能會一直很活躍。
+
+fold
+ [ fold ]
+動詞
+摺疊
+With a significant amount of internal heat, Venus may continue to be geologically active with volcanoes, rifting, and folding.
+金星內部含有大量熱能，所以在金星上，火山、裂陷、折疊等地質活動可能會一直很活躍。
+
+hydrologic system
+[ ]
+名詞
+水系統
+However, it lacks any sign of a hydrologic system (water circulation and distribution): there are no streams, lakes oceans or glaciers.
+然而，它沒有任何水文系統（水迴圈和分佈）的跡象：沒有溪流、湖泊、海洋或冰川。
+
+probe
+ [ prob ]
+名詞
+探測器
+Space probes suggest that Venus may have started with as much water as Earth, but it was unable to keep its water in liquid form.
+航太探測器顯示，金星和地球的含水量在開始的時候可能是一樣的，但是金星無法將水以液態的形式保存。
+
+scour
+ [ skaʊr ]
+動詞
+沖刷
+Similarly, wind action has scoured fine particles away from large areas, depositing them elsewhere as vast sand seas dominated by dunes or in sheets of loess (fine-grained soil deposits).
+同樣，風力作用也將細顆粒從大片的區域吹走，使這些細顆粒在其他地方堆積成為由沙丘和黃土（精細的土壤沉積物）組成的茫茫沙海。
+
+dune
+ [ djun ]
+名詞
+（風吹積成的）沙丘
+Similarly, wind action has scoured fine particles away from large areas, depositing them elsewhere as vast sand seas dominated by dunes or in sheets of loess (fine-grained soil deposits).
+同樣，風力作用也將細顆粒從大片的區域吹走，使這些細顆粒在其他地方堆積成為由沙丘和黃土（精細的土壤沉積物）組成的茫茫沙海。
+
+loess
+ [ ˋloɪs ]
+名詞
+黃土
+Similarly, wind action has scoured fine particles away from large areas, depositing them elsewhere as vast sand seas dominated by dunes or in sheets of loess (fine-grained soil deposits).
+同樣，風力作用也將細顆粒從大片的區域吹走，使這些細顆粒在其他地方堆積成為由沙丘和黃土（精細的土壤沉積物）組成的茫茫沙海。
+
+greenery
+ [ ˋgrinərɪ ]
+名詞
+綠色植物
+Because liquid water was present, self-replicating molecules of carbon, hydrogen, and oxygen developed life early in Earth's history and have radically modified its surface, blanketing huge parts of the continents with greenery.
+因為液態水的存在，自我複製的碳、氫、氧分子形成了地球早期的生命，並從根本上改變了地表，使大片陸地被綠色覆蓋。
+
+nocturnal
+ [ nɑkˋtɝn! ]
+形容詞
+夜的, 夜間的
+People don't usually think of Van Gogh as an artist of nocturnal themes.
+人們通常不覺得梵古是表現夜色主題的藝術家。
+
+firsthand
+ [ ˋfɝstˋhænd ]
+形容詞
+第一手的, 直接的
+Well, I am strict about having students write about paintings they can observe firsthand.
+我在這方面要求很嚴格，堅持讓學生寫能第一手觀察到的畫作。
+
+post-impressionist
+[ ]
+名詞
+後印象派
+Although Millet was a realist painter, and Van Gogh a post-impressionist, the two paintings still share lots of features, not just the name.
+儘管米勒是現實主義畫家，梵古是後印象派畫家，這兩幅畫中有很多共同點，不只是名字。
+
+head start
+[ ]
+名詞
+領先
+I was thinking about getting a head start on my next assignment while I am at the gallery in Connecticut, the assignment on miniatures.
+我打算提前開始我下一份作業，關於微縮模型的作業，趁我去康乃狄克美術館的機會。
+
+miniature
+ [ ˋmɪnɪətʃɚ ]
+名詞
+微型複製品, 微小模型
+I was thinking about getting a head start on my next assignment while I am at the gallery in Connecticut, the assignment on miniatures.
+我打算提前開始我下一份作業，關於微縮模型的作業，趁我去康乃狄克美術館的機會。
+
+rattle
+ [ ˋræt! ]
+名詞
+撥浪鼓
+I'd focus on the meaning of the objects that some of the children are holding, some are holding flowers, one child has a rattle, another a toy violin...
+我打算集中研究某些兒童所拿物品的意義，一些人拿著花，一個小孩拿著撥浪鼓，另一個拿著玩具小提琴……
+
+attribute
+ [ ˋætrə͵bjut ]
+名詞
+品質, 特徵
+That would be fine. Uh, those objects... we call them attributes.
+這沒問題。這些物品，我們稱為象徵物。
 
